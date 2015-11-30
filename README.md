@@ -1,6 +1,6 @@
 BYOD Captioning
 ===============
-**This is the automatic version of the Bring Your Own Device captioning (where a show operator presses on button to start all the captions). If you are intrested in the manual version (where each user presses a button to start the captions), the repo can be found at https://github.com/SpaceVisualizationLaboratory/AdlerSubtitlesManual This repo holds the official 'release' version of the software. @jsub1's development branch can be found here https://github.com/jsub1/AdlerSubtitles**
+**This is the automatic version of the Bring Your Own Device captioning (where a show operator presses on button to start all the captions). If you are intrested in the manual version (where each user presses a button to start the captions), the repo can be found at https://github.com/SpaceVisualizationLaboratory/AdlerSubtitlesManual This repo holds the official 'release' version of the software. @jsub1 's development branch can be found here https://github.com/jsub1/AdlerSubtitles**
 
 **Visit http://AdlerCaps.org to see how the Adler Planetarium has implemented this software**
 
